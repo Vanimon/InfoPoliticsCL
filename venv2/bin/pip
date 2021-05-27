@@ -1,4 +1,4 @@
-#!/home/swater/Escritorio/Programas/Repos/proyectoBRI/venv2/bin/python
+#!/home/swater/Escritorio/Programas/Repos/proyectoBRI/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
